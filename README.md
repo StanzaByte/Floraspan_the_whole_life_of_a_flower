@@ -33,6 +33,10 @@ The simulation operates on a deterministic `29.0`-second life cycle (`life` from
 
 ## Features
 
+## Demo Preview
+
+https://github.com/user-attachments/assets/3e4ea8cd-101b-456c-98fe-175312517251
+
 ### Life Cycle Stages
 
 The simulation transitions smoothly across six distinct botanical phases[cite: 1]:
